@@ -9,6 +9,6 @@
 ### `2.) Phone Shop Landing Page`
 <kbd><img src="PhoneStore.png"></kbd>
 
-### `2.) Dashboard list Page`
+### `3.) Dashboard list Page`
 <kbd><img src="Dashboard.png"></kbd>
 
