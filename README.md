@@ -10,4 +10,4 @@
 <kbd><img src="PhoneStore.png"></kbd>
 
 ### `3) Phone Buy Landing Page`
-<kbd><img src="PhonesView.png"></kbd>
+<kbd><img src="BuyingPage.png"></kbd>
