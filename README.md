@@ -9,7 +9,7 @@
 ### `2) Phone Shop Landing Page`
 <kbd><img src="PhoneStore.png"></kbd>
 
-=======
+---
 ### `3.) Dashboard list Page`
 <kbd><img src="Dashboard.png"></kbd>
 
