@@ -13,4 +13,5 @@
 ### `3.) Dashboard list Page`
 <kbd><img src="Dashboard.png"></kbd>
 
-
+### `5.) My Cart Page`
+<kbd><img src="cart_page.jpeg"></kbd>
